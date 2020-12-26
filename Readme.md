@@ -1,6 +1,6 @@
 
 ## Personal Website:
 
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+URL: https://batoolmm.netlify.app/
 
 License: https://bootstrapmade.com/license/
