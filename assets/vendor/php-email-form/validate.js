@@ -2,8 +2,8 @@ jQuery(document).ready(function($) {
   "use strict";
 
   //Contact
-  $('php-email-form').submit(function() {
-   
+  $('form.php-email-form').submit(function() {
+
     var f = $(this).find('.form-group'),
       ferror = false,
       emailExp = /^[^\s()<>@,;:\/]+@\w[\w\.-]+\.[a-z]{2,}$/i;
