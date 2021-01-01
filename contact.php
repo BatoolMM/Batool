@@ -4,7 +4,7 @@
 	$email	 	= $_POST['myEmail'];
 	$message 		= $_POST['myMessage'];
 
-	$to 			= "batool@liverpool.ac.uk";
+	$to 			= "batool664@hotmail.com";
 	$subject 		= "Email from my website";
 	$body 			= "Information Submitted:";
 
