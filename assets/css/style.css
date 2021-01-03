@@ -399,6 +399,12 @@ section {
 
 img.img-fluid {
   padding-top: 2em;
+  width: 350px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    max-height: 100%
 }
 
 /*--------------------------------------------------------------
