@@ -138,6 +138,7 @@
     offset: '80%'
   });
 
+
   // Init AOS
   function aos_init() {
     AOS.init({
@@ -188,4 +189,31 @@
     items: 1
   });
 
+
+
 })(jQuery);
+
+
+
+// $(document).ready(function(){
+//   $('.card-4').css('margin-top', $('.card-1').height());
+//   $('.card-5').css('margin-top', $('.card-2').height());
+//   $('.card-6').css('margin-top', $('.card-2').height());
+// });
+
+
+// $(document).ready(function() {
+//   const cardButtons = $('.card-button');
+//   const cardPopups = $('.card-popup');
+
+//   cardButtons.each(function(index) {
+//       $(this).click(function() {
+//           cardPopups.eq(index).css('display', 'block');
+//       });
+//   });
+// });
+
+
+// $(document).ready(function() {
+//   $('.card-action a').addClass('blue-button');
+// });
